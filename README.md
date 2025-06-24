@@ -17,7 +17,7 @@
 🎯 I'm actively seeking **VLSI job opportunities**, exciting challenges, and new learning experiences in the cloud engineering domain.
 
 <h3>Social & Coding Profiles<h3>
-<a href="www.linkedin.com/in/y-madhumitha">
+<a href="http://www.linkedin.com/in/y-madhumitha">
   <img src="linked-in.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
 <a href="https://github.com/Y-Madhumitha">
