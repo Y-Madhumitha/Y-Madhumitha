@@ -4,8 +4,6 @@
 
 🎓 I completed my B.E in Electronics and Communication Engineering (ECE) and  graduated in **May 2025**.
 
-🛠️ I can **create, deploy, automate, and test** cloud-based infrastructure.
-
 🛠️ **Skills:**  
 - Verilog HDL
 - Analog Layout Design
