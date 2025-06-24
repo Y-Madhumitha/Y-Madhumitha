@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Hi there, I'm <span style="font-size: 2em; font-weight: bold;">Y Madhumitha</span> 👋</h1>
+<h3 align="left">🚀 Aspiring VLSI Engineer</h3>
+<img align="right" height="400" width="400"src="VLSI logo.png" />
 
-<!--
-**Y-Madhumitha/Y-Madhumitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I completed my B.E in Electronics and Communication Engineering (ECE) and  graduated in **May 2025**.
 
-Here are some ideas to get you started:
+🛠️ I can **create, deploy, automate, and test** cloud-based infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills:**  
+- Verilog HDL
+- Analog Layout Design
+- TCL
+- Tools: ModelSim , Intel Quartus Prime Lite , Cadence Vituoso, Vivado.
+
+🌱 Currently learning **Tool Command Language(TCL), System Verilog , Universal Verification Methodology(UVM)** 
+
+🎯 I'm actively seeking **VLSI job opportunities**, exciting challenges, and new learning experiences in the cloud engineering domain.
+
+<h3>Social & Coding Profiles<h3>
+<a href="https://www.linkedin.com/in/vk191003">
+  <img src="linked-in.svg" alt="LinkedIn" height="40" width="40"/>
+</a>
+<a href="www.linkedin.com/in/y-madhumitha">
+  <img src="github.png" alt="GitHub" height="40" width="40"/>
+</a>
+
+
