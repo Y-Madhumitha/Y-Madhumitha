@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm <span style="font-size: 2em; font-weight: bold;">Y Madhumitha</span> 👋</h1>
 <h3 align="left">🚀 Aspiring VLSI Engineer</h3>
-<img align="right" height="200" width="200"src="vlsi logo2.jpg" />
+<img align="right" height="200" width="300"src="vlsi logo2.jpg" />
 
 🎓 I completed my B.E in Electronics and Communication Engineering (ECE) and  graduated in **May 2025**.
 
