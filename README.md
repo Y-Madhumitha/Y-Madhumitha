@@ -20,7 +20,7 @@
 <a href="www.linkedin.com/in/y-madhumitha">
   <img src="linked-in.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
-<a href="www.linkedin.com/in/y-madhumitha">
+<a href="https://github.com/Y-Madhumitha">
   <img src="github.png" alt="GitHub" height="40" width="40"/>
 </a>
 
