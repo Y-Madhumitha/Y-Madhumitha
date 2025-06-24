@@ -14,7 +14,7 @@
 
 🌱 Currently learning **Tool Command Language(TCL), System Verilog , Universal Verification Methodology(UVM)** 
 
-🎯 I'm actively seeking **VLSI job opportunities**, exciting challenges, and new learning experiences in the cloud engineering domain.
+🎯 I'm actively seeking **VLSI job opportunities**, exciting challenges, and new learning experiences in the VLSI engineering domain.
 
 <h3>Social & Coding Profiles<h3>
 <a href="http://www.linkedin.com/in/y-madhumitha">
