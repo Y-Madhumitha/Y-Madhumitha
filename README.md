@@ -10,7 +10,7 @@
 - TCL
 - Tools: ModelSim , Intel Quartus Prime Lite , Cadence Vituoso, Vivado.
 
-🌱 Currently learning **Tool Command Language(TCL), System Verilog , Universal Verification Methodology(UVM)** 
+🌱 Currently learning **Tool Command Language(TCL), SystemVerilog , Universal Verification Methodology(UVM)** 
 
 🎯 I'm actively seeking **VLSI job opportunities**, exciting challenges, and new learning experiences in the VLSI engineering domain.
 
